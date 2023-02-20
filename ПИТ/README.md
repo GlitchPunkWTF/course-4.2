@@ -28,3 +28,14 @@
 
 > Лаба 4 + шифрование пароля
 
+## Лаба 6
+
+> Сделать какое-то
+> [андроидное приложение](6/MU_090302_Razrabotka_mobilynyx_prilogheniy_Mu_k_PR_LR_(090302_AISa-o19).pdf)
+>
+> А также какие-то сдампленные куски сайтов
+> ([1](https://learn.microsoft.com/ru-ru/windows/android/native-android),
+> [2](https://harrix.dev/blog/2019/install-android-studio/),
+> [3](https://www.c-sharpcorner.com/article/beginnings-of-xamarin-android-for-developers-of-android-studio/),
+> [4](https://learn.microsoft.com/ru-ru/xamarin/get-started/?view=vs-2022)),
+> которые вряд ли пригодятся (и пикча с подвохом ```в папке xamarin в оригинальном архиве```)
